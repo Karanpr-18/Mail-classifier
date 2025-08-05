@@ -233,7 +233,7 @@ with st.sidebar:
         <div style="margin-top: 2rem; text-align: center;">
             <p style="color: rgba(255, 255, 255, 0.6);">
             Built by 
-            <a href="https://github.com/Karanpr-18" target="_blank" class="github-profile-link">Karan</a>
+            <a href="https://github.com/Karanpr-18" target="_blank" class="github-profile-link">Karan ☺️</a>
             </p>
         </div>
     """, unsafe_allow_html=True)
