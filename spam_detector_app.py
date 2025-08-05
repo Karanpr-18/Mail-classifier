@@ -220,7 +220,7 @@ with st.sidebar:
         
         <div style="margin-top: 2rem; text-align: center;">
             <p style="color: rgba(255, 255, 255, 0.6);">
-            Built with 💜 using Streamlit
+            Built by https://github.com/Karanpr-18
             </p>
         </div>
     """, unsafe_allow_html=True)
